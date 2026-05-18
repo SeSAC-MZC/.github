@@ -15,7 +15,7 @@
 5. 클라우드의 시작, Linux & Network / 24H
 6. 클라우드 핵심 인프라와 네트워크 및 서비스 설계와 구축 / 18H
 7. MSA 기반 Microservice 관리를 위한 Docker & Kubernetes 활용 / 60H
-8. MSA 기반 Spring Cloud /60H
+8. MSA 기반 Spring Cloud / 60H
 9. AWS EKS 운영 / 30H
 10. AWS 클라우드 네이티브 Serverless 개발 / 60H
 11. AWS AI 서비스 활용 / 18H
