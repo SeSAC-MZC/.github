@@ -30,6 +30,6 @@
 - [SeSAC-MZC](https://www.notion.so/SeSAC-MZC-364dc48d864180ca85f8fdda76c8e24b)
 
 ### 웨일온 전용회의실
-- [링크](https://whaleon.us/o/CSrzPM/04d0d57561814ee5bae5d0d882ce7e03)
+- [링크(네이버 웨일 브라우저 설치 필요)](https://whaleon.us/o/CSrzPM/04d0d57561814ee5bae5d0d882ce7e03)
 - 회의 ID: 210 868 4802
 - 비밀번호: 162305
