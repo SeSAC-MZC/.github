@@ -24,7 +24,7 @@
 14. 창업교육 / 3H
 
 ### 📂 수업 소스코드
-- [Git]()
+- [JavaStudy](https://github.com/SeSAC-MZC/JavaStudy)
 
 ### 📂 노션
 - [SeSAC-MZC](https://www.notion.so/SeSAC-MZC-364dc48d864180ca85f8fdda76c8e24b)
