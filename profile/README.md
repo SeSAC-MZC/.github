@@ -38,4 +38,4 @@
 
 ### 🆘 매니저님과의 오픈채팅
 - 질문 전용 오픈채팅
-https://open.kakao.com/o/sreGhNyi
+- https://open.kakao.com/o/sreGhNyi
