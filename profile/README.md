@@ -35,3 +35,7 @@
 - [링크(네이버 웨일 브라우저 설치 필요)](https://whaleon.us/o/CSrzPM/04d0d57561814ee5bae5d0d882ce7e03)
 - 회의 ID: 210 868 4802
 - 비밀번호: 162305
+
+### 🆘 매니저님과의 오픈채팅
+- 질문 전용 오픈채팅
+https://open.kakao.com/o/sreGhNyi
