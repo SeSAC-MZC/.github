@@ -42,3 +42,19 @@
 ### 🆘 매니저님과의 오픈채팅
 - 질문 전용 오픈채팅
 - https://open.kakao.com/o/sreGhNyi
+
+### 1차프로젝트 주제
+- 추천 API (아래 예시를 꼭 지키기 않아도 무방합니다.)
+1. [한국관광공사_국문 관광정보 서비스_GW](https://www.data.go.kr/data/15101578/openapi.do)
+2. [한국관광공사_고캠핑 정보 조회서비스_GW](https://www.data.go.kr/data/15101933/openapi.do)
+3. [소상공인시장진흥공단_상가(상권)정보_API](https://www.data.go.kr/data/15012005/openapi.do)
+4. [한국고용정보원_온통청년_청년정책API](https://www.data.go.kr/data/15143273/openapi.do)
+5. [농림축산식품부 농림축산검역본부_국가동물보호정보시스템 구조동물 조회 서비스](https://www.data.go.kr/data/15098931/openapi.do)
+6. [예술경영지원센터 공연예술통합전산망:KOPIS](https://kopis.or.kr/por/cs/openapi/openApiInfo.do?menuId=MNU_00074)
+7. [국립중앙도서관 도서관 정보나루 API](https://www.data4library.kr/apiUtilization)
+8. [카카오 책 검색 API](https://developers.kakao.com/docs/ko/daum-search/common)
+
+- SNS 로그인 (아래 API는 모두 사용합니다.)
+1. [카카오 로그인](https://developers.kakao.com/docs/ko/kakaologin/common)
+2. [네이버 로그인](https://developers.naver.com/docs/login/overview/overview.md)
+3. [구글 로그인](https://developers.google.com/identity/protocols/oauth2?hl=ko)
