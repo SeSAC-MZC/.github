@@ -43,7 +43,7 @@
 - 질문 전용 오픈채팅
 - https://open.kakao.com/o/sreGhNyi
 
-### 1차프로젝트 주제
+### 🧑‍🤝‍🧑 1차프로젝트 주제
 - 추천 API (아래 예시를 꼭 지키기 않아도 무방합니다.)
 1. [한국관광공사_국문 관광정보 서비스_GW](https://www.data.go.kr/data/15101578/openapi.do)
 2. [한국관광공사_고캠핑 정보 조회서비스_GW](https://www.data.go.kr/data/15101933/openapi.do)
