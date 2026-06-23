@@ -27,6 +27,7 @@
 - [JavaStudy](https://github.com/SeSAC-MZC/JavaStudy)
 - [DbStudy](https://github.com/SeSAC-MZC/DbStudy)
 - [SpringBootStudy](https://github.com/SeSAC-MZC/SpringBootStudy)
+- [JavaScriptStudy](https://github.com/SeSAC-MZC/JavaScriptStudy)
 
 ### 📂 노션
 - [SeSAC-MZC](https://www.notion.so/SeSAC-MZC-364dc48d864180ca85f8fdda76c8e24b)
