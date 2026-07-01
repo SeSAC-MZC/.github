@@ -68,3 +68,7 @@
 5. 관리자 기능 (별도 화면, 모든 걸 할 수 있는 관리자)
 6. 주제별 핵심 비즈니스 (예약, 데이터 파싱, 검색 등)
 7. API 네트워크 오류 대비 (캐싱)
+
+- **Claude 계정**
+<img width="360" height="263" alt="image" src="https://github.com/user-attachments/assets/829e24a4-7ca3-48e4-8df2-8ef1d0e8433a" />
+
